@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.github.p1k0chu.mcmod.consistent_advancements.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"TreeNodePositionMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
